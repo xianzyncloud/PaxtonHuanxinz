@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=580&lines=Hi+there%2C+I%27m+Fauzialifatah+%F0%9F%91%8B;Still+learning+%E2%80%94+but+never+stopping+%F0%9F%94%A5;JavaScript+%7C+Vue.js+%7C+TypeScript;Sharing+my+journey+on+YouTube)](https://github.com/Alifatahfauzi)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=580&lines=Hi+there%2C+I%27m+PàxtonHuànxin+%F0%9F%91%8B;Still+learning+%E2%80%94+but+never+stopping+%F0%9F%94%A5;JavaScript+%7C+Vue.js+%7C+TypeScript;Sharing+my+journey+on+YouTube)](https://github.com/Alifatahfauzi)
 
 <br/>
 
