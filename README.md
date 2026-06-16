@@ -221,15 +221,15 @@ const about = [
 
 <div align="center">
 
-<a href="https://www.youtube.com/@Fauzialifatah">
+<a href="https://www.youtube.com/@PaxtonHuanxin">
   <img src="https://img.shields.io/badge/YouTube-FFD700?style=for-the-badge&logo=youtube&logoColor=black" height="36"/>
 </a>
 &ensp;
-<a href="https://www.instagram.com/fauzialifatah_">
+<a href="https://www.instagram.com/paxtonhuanxin">
   <img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=black" height="36"/>
 </a>
 &ensp;
-<a href="https://heylink.me/FauziAlifatah">
+<a href="https://paxtonhuanxin-developer.vercel.app/">
   <img src="https://img.shields.io/badge/HeyLink-FFD700?style=for-the-badge&logo=linktree&logoColor=black" height="36"/>
 </a>
 &ensp;
