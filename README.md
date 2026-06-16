@@ -230,11 +230,11 @@ const about = [
 </a>
 &ensp;
 <a href="https://paxtonhuanxin-developer.vercel.app/">
-  <img src="https://img.shields.io/badge/HeyLink-FFD700?style=for-the-badge&logo=linktree&logoColor=black" height="36"/>
+  <img src="https://img.shields.io/badge/Official Website-FFD700?style=for-the-badge&logo=linktree&logoColor=black" height="36"/>
 </a>
 &ensp;
-<a href="http://ziihost.store">
-  <img src="https://img.shields.io/badge/Website-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" height="36"/>
+<a href="https://api.codepxh.com/">
+  <img src="https://img.shields.io/badge/Website Api's-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" height="36"/>
 </a>
 
 </div>
