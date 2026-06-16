@@ -48,7 +48,7 @@ const about = [
   { label: "location",  value: "Indonesia"                               },
   { label: "status",    value: "Still learning — never stopping"         },
   { label: "focus",     value: "Web Dev · Bot · Content Creation"        },
-  { label: "channel",   value: "https://www.youtube.com/@P%C3%A0xtonHu%C3%A0nxin"              },
+  { label: "channel",   value: "youtube.com/@PaxtonHuanxin"              },
   { label: "motto",     value: "Start small. Ship it. Improve later."    },
 ]
 </script>
