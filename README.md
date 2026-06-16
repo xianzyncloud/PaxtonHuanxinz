@@ -44,8 +44,8 @@ const name    = "Pàxton Huànxin"
 const tagline = "A beginner who codes with curiosity."
 
 const about = [
-  { label: "username founder",  value: "@PàxtonHuànxinz, @xianzynclound"                         },
-  { label: "username partner dravynshe",  value: "Indonesia"                               },
+  { label: "username Pàxton Huànxin",  value: "@xianzynclound"                         },
+  { label: "username Dravynshe",  value: "@Dravynshe"                               },
   { label: "location",  value: "Indonesia"                               },
   { label: "status",    value: "Still learning — never stopping"         },
   { label: "focus",     value: "Web Dev · Bot · Content Creation"        },
