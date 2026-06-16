@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0,FFD700&height=220&section=header&text=Pàxton Huànxin&fontSize=62&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Learner%20%7C%20Builder%20%7C%20Content%20Creator&descAlignY=58&descSize=16&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0,FFD700&height=220&section=header&text=PàxtonHuànxin&fontSize=62&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Learner%20%7C%20Builder%20%7C%20Content%20Creator&descAlignY=58&descSize=16&descColor=ffffff" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 &ensp;
 [![GitHub Followers](https://img.shields.io/github/followers/Alifatahfauzi?style=flat-square&color=FFD700&labelColor=000000&label=FOLLOWERS&logo=github&logoColor=FFD700)](https://github.com/Alifatahfauzi?tab=followers)
 &ensp;
-[![YouTube](https://img.shields.io/badge/YOUTUBE-%40Fauzialifatah-FFD700?style=flat-square&logo=youtube&logoColor=FFD700&labelColor=000000)](https://www.youtube.com/@Fauzialifatah)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-%40PaxtonHuanxin-FFD700?style=flat-square&logo=youtube&logoColor=FFD700&labelColor=000000)](https://www.youtube.com/@Fauzialifatah)
 
 </div>
 
