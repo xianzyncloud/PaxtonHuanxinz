@@ -40,7 +40,7 @@
 </template>
 
 <script setup>
-const name    = "Fauzialifatah"
+const name    = "Pàxton Huànxin"
 const tagline = "A beginner who codes with curiosity."
 
 const about = [
